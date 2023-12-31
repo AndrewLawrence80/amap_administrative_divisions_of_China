@@ -1,0 +1,2 @@
+# amap_administrative_divisions_of_China
+高德地图中华人民共和国行政区划数据
